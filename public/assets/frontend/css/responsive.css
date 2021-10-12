@@ -1,0 +1,158 @@
+@media (max-width: 1399px) { 
+
+}
+
+@media (max-width: 1199px) {
+	.domain-right,.alises-right{
+	  margin-left: 15%;
+	}
+	.empower-yourself-right-bottom .stats-right,
+	.empower-yourself-right-bottom .retargeting-right{
+	  margin-left: 15%;
+	}		
+}
+
+@media (max-width: 991px) {
+	.navbar-nav .pricing{
+	  opacity: 1;
+	  visibility: visible;
+	}
+	.navbar-nav .login{
+	  opacity: 1;
+	  visibility: visible;
+	}
+	.domain-right,.alises-right{
+	  margin-left: 23%;
+	}
+	.empower-yourself-right-bottom .stats-right,
+	.empower-yourself-right-bottom .retargeting-right{
+	  margin-left: 23%;
+	}
+}
+
+@media (max-width: 767px) {
+	.navbar-nav .pricing{
+	  opacity: 1;
+	  visibility: visible;
+	}
+	.navbar-nav .login{
+	  opacity: 1;
+	  visibility: visible;
+	}
+	.search-section .search-bar form input{
+	  width: 45%;
+	}
+	table tr td i{
+	  margin-right: 10px;
+	}	
+	.domain-right,.alises-right{
+	  margin-left: 13%;
+	}	
+	.empower-yourself-right-bottom .stats-right,
+	.empower-yourself-right-bottom .retargeting-right{
+	  margin-left: 15%;
+	}	
+	.footer-left ul li{
+	  display: block;
+	  margin-bottom: 10px;
+	}
+	.footer-right{
+	  text-align: left;
+	}
+	.footer-right .footer-social-links{
+	  margin-bottom: 20px;
+	  margin-top: 20px;
+	}
+	.footer-right .footer-social-links a{
+	  margin-left: 0;
+	  margin-right: 15px;
+	}
+	.footer-right .activity{
+		margin-bottom: 20px;
+	}
+	.footer-right .activity a{
+	  margin-left: 0;
+	  display: block;
+	  margin-bottom: 10px;
+	}
+}
+@media (max-width: 575px){
+	.search-section .search-bar form input{
+	  width: 50%;
+	}	
+	.navbar-nav .pricing{
+	  opacity: 1;
+	  visibility: visible;
+	}
+	.navbar-nav .login{
+	  opacity: 1;
+	  visibility: visible;
+	}
+}
+@media (max-width: 480px){
+	.search-section .search-title h1{
+	  font-size: 2rem;
+	}
+	.search-section .search-bar{
+	  text-align: left;
+	}
+	.search-section .search-bar form input{
+	  width: 100%;
+	}
+	.search-section .search-bar form select{
+	 margin-top: 15px;
+	}
+	.table-section .section-area .save-item a{
+	  display: block;
+	  margin-left: 0;
+	}	
+	.table-section .section-area .save-item{
+	  text-align: left;
+	}
+	.domain-right,.alises-right{
+	  margin-left: 20%;
+	}
+	.empower-yourself-right-bottom .stats-right,
+	.empower-yourself-right-bottom .retargeting-right{
+	  margin-left: 20%;
+	}
+	.empower-right-links-right-item i{
+	  margin-left: 5px;
+	}
+	
+}
+@media (max-width: 320px) {
+	.search-section .search-title h1{
+	  font-size: 1.5rem;
+	}
+	.table-section .section-area .save-item{
+	  text-align: left;
+	}
+	.table-section .section-area .save-item a{
+	  display: block;
+	  margin-left: 0;
+	}
+	.domain-right,.alises-right{
+	  margin-left: 25%;
+	}
+	.empower-yourself-right-bottom .stats-right,
+	.empower-yourself-right-bottom .retargeting-right{
+	  margin-left: 25%;
+	}
+	.empower-right-links-right-item i{
+	  margin-left: 0;
+	}
+	.empower-right-links span{
+	  display: none;
+
+	}
+	.empower-example{
+	  margin-left: 40%;
+	}
+}
+@media (max-width: 280px){
+	.empower-example{
+	  margin-left: 40%;
+	}
+}
+
